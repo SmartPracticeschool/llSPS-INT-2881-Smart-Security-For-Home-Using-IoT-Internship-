@@ -1,1 +1,2 @@
-https://nodered-sreeja.eu-gb.mybluemix.net/ui/#!/0?socketid=rpWgXUQFKzgObYZtAAAb
+https://nodered-sreeja.eu-gb.mybluemix.net/data
+This is live url for https request.This is used to access images in the MIT app
